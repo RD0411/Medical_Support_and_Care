@@ -1,3 +1,38 @@
+## Screenshots
+
+### Home Page
+![Home Page](assets/screenshots/Home_Page.jpg)
+
+### Available Doctors
+![Available Doctors](assets/screenshots/Available_Doctors.jpg)
+
+### Select Consultancy Type
+![Consultancy Type](assets/screenshots/Select_Consultancy_Type.jpg)
+
+### Date Selection
+![Date Selection](assets/screenshots/Date_Selection.jpg)
+
+### Time Selection
+![Time Selection](assets/screenshots/Time_Selection.jpg)
+
+### Severity Level
+![Severity Level](assets/screenshots/Severity_Level.jpg)
+
+### Consumer Details
+![Consumer Details](assets/screenshots/Consumer_Details.jpg)
+
+### Appointment Summary
+![Appointment Summary](assets/screenshots/Appointment_Summary.jpg)
+
+### Payment Gateway
+![Payment Gateway](assets/screenshots/Payment_Gateway.jpg)
+
+### Your Appointments
+![Your Appointments](assets/screenshots/Your_Appointments.jpg)
+
+### Appointment Details
+![Appointment Details](assets/screenshots/Appointment_Details.jpg)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
