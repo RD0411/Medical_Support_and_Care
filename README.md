@@ -1,37 +1,37 @@
-## Screenshots
+## 📸 Screenshots
 
-### Home Page
-![Home Page](assets/screenshots/Home_Page.jpg)
+### 🏠 Home Page
+<img src="assets/screenshots/Home_Page.jpg" alt="Home Page" width="200"/>
 
-### Available Doctors
-![Available Doctors](assets/screenshots/Available_Doctors.jpg)
+### 👨‍⚕️ Available Doctors
+<img src="assets/screenshots/Available_Doctors.jpg" alt="Available Doctors" width="200"/>
 
-### Select Consultancy Type
-![Consultancy Type](assets/screenshots/Select_Consultancy_Type.jpg)
+### 🩺 Select Consultancy Type
+<img src="assets/screenshots/Select_Consultancy_Type.jpg" alt="Consultancy Type" width="200"/>
 
-### Date Selection
-![Date Selection](assets/screenshots/Date_Selection.jpg)
+### 📅 Date Selection
+<img src="assets/screenshots/Date_Selection.jpg" alt="Date Selection" width="200"/>
 
-### Time Selection
-![Time Selection](assets/screenshots/Time_Selection.jpg)
+### ⏰ Time Selection
+<img src="assets/screenshots/Time_Selection.jpg" alt="Time Selection" width="200"/>
 
-### Severity Level
-![Severity Level](assets/screenshots/Severity_Level.jpg)
+### ⚠️ Severity Level
+<img src="assets/screenshots/Severity_Level.jpg" alt="Severity Level" width="200"/>
 
-### Consumer Details
-![Consumer Details](assets/screenshots/Consumer_Details.jpg)
+### 🧑 Consumer Details
+<img src="assets/screenshots/Consumer_Details.jpg" alt="Consumer Details" width="200"/>
 
-### Appointment Summary
-![Appointment Summary](assets/screenshots/Appointment_Summary.jpg)
+### 📝 Appointment Summary
+<img src="assets/screenshots/Appointment_Summary.jpg" alt="Appointment Summary" width="200"/>
 
-### Payment Gateway
-![Payment Gateway](assets/screenshots/Payment_Gateway.jpg)
+### 💳 Payment Gateway
+<img src="assets/screenshots/Payment_Gateway.jpg" alt="Payment Gateway" width="200"/>
 
-### Your Appointments
-![Your Appointments](assets/screenshots/Your_Appointments.jpg)
+### 📘 Your Appointments
+<img src="assets/screenshots/Your_Appointments.jpg" alt="Your Appointments" width="200"/>
 
-### Appointment Details
-![Appointment Details](assets/screenshots/Appointment_Details.jpg)
+### 📄 Appointment Details
+<img src="assets/screenshots/Appointment_Details.jpg" alt="Appointment Details" width="200"/>
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
